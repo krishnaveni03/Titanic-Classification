@@ -23,14 +23,6 @@ This project uses historical data to predict whether Titanic passengers survived
 
 ## Project Structure
 
-- `data/`: Store dataset files.
 - `notebooks/`: Jupyter Notebook for data analysis and model training.
 - `src/`: Contains `predict.py` for making predictions.
 
-## Contributing
-
-Feel free to contribute or report issues.
-
-## License
-
-This project is licensed under the MIT License.
